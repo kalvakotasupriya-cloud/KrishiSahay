@@ -1,32 +1,6 @@
-# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Virtual environment
-venv/
-env/
-.venv/
-
-# VS Code
-.vscode/
-
-# Environment variables
-.env
-
-# Streamlit
-.streamlit/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Large ML files (optional)
+*.pkl
 *.pth
 *.faiss
-*.pkl
-*.pt
-
-# Logs
-*.log
+offline/__pycache__/
