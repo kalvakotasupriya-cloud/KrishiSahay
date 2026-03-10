@@ -1,0 +1,28 @@
+# Vector Search
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# LLM / IBM Watsonx
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Translation
+deep-translator>=1.11.4
+
+# Text-to-Speech
+gTTS>=2.5.0
+
+# Numerics
+numpy>=1.24.0
+
+# Audio processing
+soundfile>=0.12.1
+
+# Speech Recognition (browser-based STT used; optional backend)
+SpeechRecognition>=3.10.0
+
+# Streamlit
+streamlit>=1.32.0
+
+# Optional: IBM Watson SDK
+# ibm-watson>=8.0.0
